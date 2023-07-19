@@ -1,6 +1,7 @@
 # NYC Taxi Data Engineering
 The goal of this project is to showcase the steps required to build a data pipeline by Extract, Transform and Load, perform data analysis and build a dashboard.
 
+The complete ETL files can be found at [mage](https://github.com/marcowong3/taxi-data-etl-pipeline/tree/main/mage_files)
 ## The Architecture
 The image below shows the end-to-end process
 <img src="./images/architecture.jpg">
